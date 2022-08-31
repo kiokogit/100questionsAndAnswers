@@ -1,0 +1,1 @@
+// Calculate the average of the numbers in an array of numbers
